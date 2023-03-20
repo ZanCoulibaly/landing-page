@@ -2758,7 +2758,7 @@ h3,
 }
 
 .footer-area {
-    padding: 20px 0px 20px;
+    padding: 10px 0px 10px;
     background: #007A33;
     color: #fff;
 }
@@ -2882,7 +2882,7 @@ h3,
 }
 
 .footer-area .footer-bottom {
-    margin-top: 70px
+    margin-top: 30px
 }
 
 @media (max-width: 991px) {
