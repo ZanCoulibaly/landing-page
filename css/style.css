@@ -265,7 +265,7 @@ h3,
 }
 
 .header_area .navbar .nav .nav-item .nav-link {
-    font-family: "Roboto", sans-serif;
+    font-family:  "ProximaNova";
     color: #fff;
     font-size: 14px;
     text-transform: capitalize;
@@ -1117,7 +1117,7 @@ h3,
 
 .card-pricing__price {
     font-size: 40px;
-    font-family: "Roboto", sans-serif;
+    font-family:  "ProximaNova";
     font-weight: 700;
     margin: 0
 }
@@ -2849,7 +2849,7 @@ h3,
 }
 
 .footer-area .single-footer-widget .click-btn {
-    font-family: "Roboto", sans-serif;
+    font-family:  "ProximaNova", sans-serif;
     color: #3a414e;
     border-radius: 0;
     border-top-left-radius: 0px;
